@@ -15,4 +15,4 @@ Avodex runs on its **own in-house matching engine** (it is not built on a third-
 
 ## Links
 - Website: https://avodex.ai
-- GitHub: https://github.com/TerpLayer
+- GitHub: https://github.com/avodex

@@ -2,7 +2,7 @@
 
 **Avodex** is a spot + perpetuals DEX with AI-powered grid-trading bots, built on its own in-house matching engine.
 
-- 🌐 https://avodex.ai · GitHub: https://github.com/TerpLayer
+- 🌐 https://avodex.ai · GitHub: https://github.com/avodex
 
 ## Contents
 - [Overview](Overview.md)
