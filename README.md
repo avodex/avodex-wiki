@@ -8,7 +8,7 @@
 - [Overview](Overview.md)
 - [Architecture](Architecture.md)
 - [Grid Trading](Grid-Trading.md)
-- Concepts: [Self-Trade Prevention](Self-Trade-Prevention.md) · [Balances](Balances.md) · [Order Reconciliation](Order-Reconciliation.md)
+- Concepts: [Self-Trade Prevention](Self-Trade-Prevention.md) · [Client Order IDs](Client-Order-IDs.md) · [Balances](Balances.md) · [Order Reconciliation](Order-Reconciliation.md)
 - [Deposits & Withdrawals](Deposits-and-Withdrawals.md)
 - [Glossary](Glossary.md)
 
