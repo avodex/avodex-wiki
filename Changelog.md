@@ -3,6 +3,7 @@
 Sanitized, user-visible highlights. Conceptual details live on the linked pages.
 
 ## 2026-06
+- **Perpetual futures design published** — architecture for linear, USDT-margined perps on the in-house engine: same matching core with a position-and-margin settlement branch, oracle-anchored mark price, [funding](Perp-Funding.md), [liquidation & insurance fund](Perp-Liquidation.md), and [perp bots](Perp-Bots.md) (long/short/neutral grid, funding-rate arbitrage) with per-bot account isolation. See [Perpetual Futures](Perpetuals.md). *(Design — not yet shipped.)*
 - **DCA bot launched** — recurring + fixed-count modes (including coin-denominated sell), just-in-time funding, price-cap skip, crash-safe per-run idempotency. See [DCA Bot](DCA-Bot.md).
 - **Bot trades now count toward VIP & rebates** — per-user sub-account attribution resolves bot fills back to the owning user; grid and DCA volume drive tier progression and referral rebates like manual trades. See [VIP & Rebates](VIP-and-Rebates.md).
 - **Rebate engine hardened fail-closed** — payouts require verifiable fee evidence; a rebate can never exceed the fee collected.
