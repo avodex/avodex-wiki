@@ -52,4 +52,6 @@ The most lasting damage in the case study was to *trust*, because the emergency 
 
 *The incident above is publicly documented; see e.g. [CoinDesk](https://www.coindesk.com/markets/2025/03/26/hyperliquid-delists-jellyjelly-after-vault-squeezed-in-usd13m-tussle), [Halborn](https://www.halborn.com/blog/post/explained-the-hyperliquid-hack-march-2025), and [OAK Research](https://oakresearch.io/en/analyses/investigations/hyperliquid-jelly-attack-context-vulnerability-team-solution) for independent accounts.*
 
-See also: [Perp Liquidation & Insurance Fund](Perp-Liquidation.md) · [Perp Risk Engine](Perp-Risk-Engine.md) · [Perp Mark Price](Perp-Mark-Price.md) · [Perpetual Futures](Perpetuals.md).
+This incident was one of a recurring pattern; the broader survey and its design lessons are in [Adversarial Lessons](Perp-Adversarial-Lessons.md).
+
+See also: [Adversarial Lessons](Perp-Adversarial-Lessons.md) · [Perp Liquidation & Insurance Fund](Perp-Liquidation.md) · [Perp Risk Engine](Perp-Risk-Engine.md) · [Perp Mark Price](Perp-Mark-Price.md) · [Perpetual Futures](Perpetuals.md).
