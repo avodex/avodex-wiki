@@ -9,7 +9,7 @@
 - [Architecture](Architecture.md)
 - [Grid Trading](Grid-Trading.md)
 - [DCA Bot](DCA-Bot.md)
-- Perpetuals *(design)*: [Perpetual Futures](Perpetuals.md) · [Mark Price](Perp-Mark-Price.md) · [Funding](Perp-Funding.md) · [Liquidation & Insurance Fund](Perp-Liquidation.md) · [Risk Engine](Perp-Risk-Engine.md) · [Perp Bots](Perp-Bots.md)
+- Perpetuals *(design)*: [Perpetual Futures](Perpetuals.md) · [Mark Price](Perp-Mark-Price.md) · [Funding](Perp-Funding.md) · [Liquidation & Insurance Fund](Perp-Liquidation.md) · [Risk Engine](Perp-Risk-Engine.md) · [Perp Bots](Perp-Bots.md) · [Insurance-Fund Case Study](Perp-Insurance-Fund-Case-Study.md)
 - Concepts: [Self-Trade Prevention](Self-Trade-Prevention.md) · [Client Order IDs](Client-Order-IDs.md) · [Balances](Balances.md) · [Order Reconciliation](Order-Reconciliation.md) · [Profit Snapshots](Profit-Snapshots.md) · [VIP & Rebates](VIP-and-Rebates.md)
 - [Deposits & Withdrawals](Deposits-and-Withdrawals.md)
 - [Glossary](Glossary.md)

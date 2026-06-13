@@ -70,4 +70,4 @@ The biggest systemic risk in any perp venue is a liquidation cascade — forced 
 - The **insurance fund** absorbs whatever the book can't, instead of pushing it back onto the order book.
 - Markets can be set **reduce-only** under stress to stop new risk from building.
 
-See also: [Perpetual Futures](Perpetuals.md) · [Perp Funding](Perp-Funding.md) · [Perp Risk Engine](Perp-Risk-Engine.md) · [Perp Bots](Perp-Bots.md).
+See also: [Perpetual Futures](Perpetuals.md) · [Perp Funding](Perp-Funding.md) · [Perp Risk Engine](Perp-Risk-Engine.md) · [Insurance-Fund Case Study](Perp-Insurance-Fund-Case-Study.md) · [Perp Bots](Perp-Bots.md).
