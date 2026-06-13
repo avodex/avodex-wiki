@@ -53,4 +53,4 @@ The two cancel exactly — nothing is created or destroyed — and liquidation i
 
 > Numbers here are illustrative, chosen to show the mechanism.
 
-See also: [Perpetual Futures](Perpetuals.md) · [Perp Liquidation & Insurance Fund](Perp-Liquidation.md).
+See also: [Perpetual Futures](Perpetuals.md) · [Perp Mark Price](Perp-Mark-Price.md) · [Perp Liquidation & Insurance Fund](Perp-Liquidation.md).

@@ -53,4 +53,4 @@ Everything that makes the spot engine correct carries over unchanged:
 3. Automated [liquidation](Perp-Liquidation.md) and the insurance fund.
 4. Cross-margin, auto-deleveraging, leverage/risk tiers, more markets.
 
-See also: [Perp Funding](Perp-Funding.md) · [Perp Liquidation & Insurance Fund](Perp-Liquidation.md) · [Perp Bots](Perp-Bots.md).
+See also: [Perp Mark Price](Perp-Mark-Price.md) · [Perp Funding](Perp-Funding.md) · [Perp Liquidation & Insurance Fund](Perp-Liquidation.md) · [Perp Risk Engine](Perp-Risk-Engine.md) · [Perp Bots](Perp-Bots.md).
